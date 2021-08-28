@@ -1,0 +1,9 @@
+E:\AQUA_DATA\AQUA_DATA\bin\Debug\BASICS.exe.config
+E:\AQUA_DATA\AQUA_DATA\bin\Debug\BASICS.exe
+E:\AQUA_DATA\AQUA_DATA\bin\Debug\BASICS.pdb
+E:\AQUA_DATA\AQUA_DATA\obj\Debug\AQUA_DATA.Form1.resources
+E:\AQUA_DATA\AQUA_DATA\obj\Debug\BASICS.Properties.Resources.resources
+E:\AQUA_DATA\AQUA_DATA\obj\Debug\BASICS.csproj.GenerateResource.cache
+E:\AQUA_DATA\AQUA_DATA\obj\Debug\BASICS.csproj.CoreCompileInputs.cache
+E:\AQUA_DATA\AQUA_DATA\obj\Debug\BASICS.exe
+E:\AQUA_DATA\AQUA_DATA\obj\Debug\BASICS.pdb
