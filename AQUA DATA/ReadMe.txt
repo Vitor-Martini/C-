@@ -1,0 +1,1 @@
+AquaData tem o intuito de guardar de forma organizada dados de acompanhamentos diários de aquários.
